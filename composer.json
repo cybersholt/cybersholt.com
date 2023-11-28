@@ -1,9 +1,6 @@
 {
   "require": {
     "phpmailer/phpmailer": "^6.1",
-    "swiftmailer/swiftmailer": "^6.2",
-    "orhanerday/open-ai": "^4.7",
-    "ext-json": "*",
-    "ext-redis": "*"
+    "ext-json": "*"
   }
 }
